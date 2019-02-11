@@ -8,7 +8,7 @@ Assets in ERPNext are now integrated with Serial Numbers so that you can directl
 
 ### Capital-Work-in-Progress (CWIP) Accounting
 
-With CWIP, you can track assets appear in your books but are not yet deployed. When assets are purchased, the can be held in a placeholder account (CWIP) and the depreciation cycle starts automatically on the day you designate it to come to use.
+With CWIP, you can track assets that appear in your books but are not yet deployed. When assets are purchased, they can be held in a placeholder account (CWIP) and the depreciation cycle starts automatically on the day you designate it to come to use.
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TH8u7BgyIag" allowfullscreen></iframe>
